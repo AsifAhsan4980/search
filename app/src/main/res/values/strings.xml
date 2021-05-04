@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Search</string>
+    <string name="go">Go</string>
+    <string name="ask_mw_anything">Ask Mw Anything</string>
+    <string name="your_keywords">Your Keywords</string>
+    <string name="search">Search</string>
+</resources>
